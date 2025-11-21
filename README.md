@@ -1,5 +1,5 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/aaJH1Jt.gif" width="100%" />
+<!-- Top Banner -->
+<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100%" />
 
 <h1 align="center">Hi, I'm <span style="color:#4ec9b0;">Tanzeel Ahmed</span> 👋</h1>
 
@@ -11,9 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a frontend developer from **Lodhran, Punjab, Pakistan** who loves building  
-clean, responsive, and user-friendly websites.  
-Every project I make helps me improve and learn something new.
+I'm a frontend developer from **Lodhran, Punjab, Pakistan**, passionate about creating clean, responsive, and user-friendly web applications.
 
 ---
 
@@ -27,11 +25,11 @@ Every project I make helps me improve and learn something new.
 
 ## 💼 What I Do
 
-- 🎨 Create responsive, mobile-first websites  
-- 🛍️ Build clean e-commerce UI experiences  
-- ⚡ JavaScript interactive tools & mini apps  
-- 🧩 Write clean, organized, maintainable code  
-- 🎯 Focus on UI/UX + accessibility  
+- 🎨 Build responsive, mobile-first websites  
+- 🛍️ Create modern e-commerce UI  
+- ⚡ Develop JS tools and interactive apps  
+- 🧩 Write clean, maintainable code  
+- 🎯 Focus on UI/UX and accessibility  
 - 🤝 Collaborate on meaningful projects  
 
 ---
@@ -39,20 +37,18 @@ Every project I make helps me improve and learn something new.
 ## 🌟 Highlighted Projects
 
 ### 🔹 **Portfolio Website**
-🔗 https://github.com/Tanzeel804/portfolio-main  
-A modern, responsive personal portfolio with smooth animations and a clean design.
-
----
+🔗 [Portfolio Website](https://github.com/Tanzeel804/portfolio-main)  
+Modern, responsive portfolio showcasing my work, skills & experience.
 
 ### 🔹 **E-Commerce UI**
-🔗 https://github.com/Tanzeel804/E-com-store-ai  
-Stylish, responsive e-commerce interface made with Bootstrap + JavaScript.
-
----
+🔗 [E-Commerce UI](https://github.com/Tanzeel804/E-com-store-ai)  
+Stylish, responsive e-commerce UI with interactive features.
 
 ### 🔹 **JavaScript Tools Collection**
-🔗 https://github.com/Tanzeel804  
-Useful JS mini-apps: DOM tools, calculators, API-based utilities & more.
+🔗 [JS Tools Collection](https://github.com/Tanzeel804)  
+Useful JS mini-apps demonstrating DOM manipulation, APIs & interactivity.
+
+> *More projects coming soon — check my repos below!* ⬇️
 
 ---
 
@@ -60,7 +56,7 @@ Useful JS mini-apps: DOM tools, calculators, API-based utilities & more.
 
 - React (SPA development)  
 - REST APIs  
-- Modern ES6+ JavaScript  
+- Modern JavaScript (ES6+)  
 - UI/UX Design Principles  
 
 ---
@@ -83,23 +79,24 @@ Useful JS mini-apps: DOM tools, calculators, API-based utilities & more.
 - Build real-world projects  
 - Improve as a developer daily  
 - Contribute to open-source  
-- Work with global devs  
-- Grow my GitHub audience  
+- Collaborate globally  
+- Grow GitHub audience  
 
 ---
 
 ## 📫 Contact Me
 
 📧 **Email:** tanzeelahmed412@gmail.com  
-💼 **GitHub:** https://github.com/Tanzeel804  
+💼 **GitHub:** [@Tanzeel804](https://github.com/Tanzeel804)  
 🌍 **Location:** Lodhran, Punjab, Pakistan  
 
 ---
 
+<!-- Bottom Animated GIF -->
 <p align="center">
-  <img src="https://i.imgur.com/5N0XHqv.gif" width="200px" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200px" />
 </p>
 
 <h3 align="center">✨ Let's Connect & Build Something Awesome Together!</h3>
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
