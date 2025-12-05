@@ -27,7 +27,7 @@ const developer = {
   currentlyLearning: ["React", "Node.js", "MongoDB"],
   hobbies: ["Coding", "Tech Research", "Problem Solving"],
   availability: "Open for Collaborations",
-  contact: "tanzeel.ahmed804@gmail.com"
+  contact: "tanzeelahmed412@gmail.com"
 };
 ```
 
