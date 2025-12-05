@@ -1,105 +1,100 @@
-<!-- ===================================================
-   ULTIMATE — Stable & Attractive GitHub Profile README
-   Paste this into: github.com/Tanzeel804/README.md
-   (Uses local /assets images so nothing breaks)
-   =================================================== -->
+<!-- Perfect, stable, no-broken-image GitHub Profile README -->
 
 <p align="center">
-  <img src="assets/cover.png" alt="cover" style="max-width:100%; border-radius:12px; box-shadow:0 10px 36px rgba(0,0,0,0.35)"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="120" />
 </p>
 
-<h1 align="center">👋 Hi — I'm <strong>Tanzeel Ahmed</strong></h1>
-<p align="center">Frontend Developer · UI/UX Focused · Mobile-first & Performance-minded</p>
+<h1 align="center">Hi, I'm <strong>Tanzeel Ahmed</strong> 👋</h1>
+<p align="center">Frontend Developer • UI/UX Lover • Clean Code Focused</p>
 
 <p align="center">
-  <a href="mailto:tanzeelahmed412@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="email"/></a>
-  <a href="https://github.com/Tanzeel804"><img src="https://img.shields.io/badge/GitHub-Tanzeel804-black?style=for-the-badge&logo=github" alt="github"/></a>
-  <a href="https://Tanzeel804.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge" alt="portfolio"/></a>
+  <a href="mailto:tanzeelahmed412@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/Tanzeel804">
+    <img src="https://img.shields.io/badge/GitHub-Tanzeel804-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=4CAF50&center=true&width=720&lines=I+build+clean+and+responsive+frontends.;Pixel-perfect+UI+%2B+fast+performance." alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&center=true&vCenter=true&width=600&duration=3500&pause=900&color=00FF9D&lines=Frontend+Developer;UI%2FUX+Enthusiast;Clean+%26+Professional+Web+Designs;Always+learning+new+skills" />
 </p>
 
 ---
 
-## 🔎 Quick Snapshot
-- 🎯 Frontend: HTML • CSS • JavaScript (mobile-first)  
-- ⚡ Strengths: Responsive layouts, accessible markup, clean UI  
-- 🚀 Goal: Publish polished portfolio projects & demos
+## 🚀 About Me
+- 🎯 Frontend development with a strong focus on UI/UX  
+- ✨ I build clean, smooth, responsive websites  
+- 📚 Learning daily & improving design sense  
+- ⚡ Fast at building projects with good structure  
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠 Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,linux" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,linux,vscode" height="48" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-> Screenshots below are local (`/assets/`) — they will always load after you run the install script.
+## 🔥 Featured Projects  
+(*Generic beautiful thumbnails — 100% working*)
 
-<table width="100%">
-<tr>
-  <td align="center" width="33%" valign="top">
-    <img src="assets/portfolio-main.png" alt="Portfolio" width="100%" style="border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.12)"/>
-    <h3>Portfolio — <small>portfolio-main</small></h3>
-    <p>Modern responsive portfolio with project highlights & contact.</p>
-    <p>
-      <a href="https://github.com/Tanzeel804/portfolio-main"><img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github" alt="code"/></a>
-      <a href="https://Tanzeel804.github.io/portfolio-main"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square" alt="demo"/></a>
-    </p>
-  </td>
+### Portfolio Website
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="200" />
+</p>
 
-  <td align="center" width="33%" valign="top">
-    <img src="assets/project-portfolio.png" alt="Project Template" width="100%" style="border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.12)"/>
-    <h3>Project-Portfolio — <small>Project-portfolio</small></h3>
-    <p>Reusable template to spin up a portfolio in minutes.</p>
-    <p>
-      <a href="https://github.com/Tanzeel804/Project-portfolio"><img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github" alt="code"/></a>
-      <a href="https://Tanzeel804.github.io/Project-portfolio"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square" alt="demo"/></a>
-    </p>
-  </td>
-
-  <td align="center" width="33%" valign="top">
-    <img src="assets/ecom-store.png" alt="Ecom Store" width="100%" style="border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.12)"/>
-    <h3>E-com-store — <small>E-com-store-ai</small></h3>
-    <p>UI-focused e-commerce mockups — product cards, cart UX.</p>
-    <p>
-      <a href="https://github.com/Tanzeel804/E-com-store-ai"><img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=flat-square&logo=github" alt="code"/></a>
-      <a href="https://Tanzeel804.github.io/E-com-store-ai"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square" alt="demo"/></a>
-    </p>
-  </td>
-</tr>
-</table>
+🔗 Live Demo: *Your link here*  
+🔗 Code: *Your repo here*
 
 ---
 
-## 📈 GitHub Stats & Trophies (self-hosted copies)
-<!-- These images are saved locally in /assets by the install script -->
+### Project Portfolio Template
 <p align="center">
-  <img src="assets/github-stats.svg" alt="github-stats" height="140"/>
-  <img src="assets/top-langs.svg" alt="top-langs" height="140"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="200" />
+</p>
+
+🔗 Live Demo: *Your link here*  
+🔗 Code: *Your repo here*
+
+---
+
+### E-Com Store UI
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="200" />
+</p>
+
+🔗 Live Demo: *Your link here*  
+🔗 Code: *Your repo here*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanzeel804&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanzeel804&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="assets/trophies.png" alt="trophies" style="max-width:600px;"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzeel804&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📋 How to add real screenshots (recommended)
-1. Open each project, take a screenshot (720×400), save as PNG.  
-2. Put files in `/assets/` with names: `portfolio-main.png`, `project-portfolio.png`, `ecom-store.png`.  
-3. Commit & push. (If you run the script below it already creates placeholders for you.)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanzeel804&theme=matrix&no-bg=true&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## 📬 Contact
-- ✉ Email: tanzeelahmed412@gmail.com  
-- 🔗 GitHub: https://github.com/Tanzeel804
+- 📧 Email: **tanzeelahmed412@gmail.com**  
+- 🐙 GitHub: **https://github.com/Tanzeel804**
 
 ---
 
-*Made to be stable — images served from `/assets` in this repo so nothing breaks.*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/code/code.png" width="120" />
+</p>
