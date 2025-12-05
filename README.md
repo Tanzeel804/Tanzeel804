@@ -1,104 +1,112 @@
-<!-- Ultra Premium GitHub Profile README | No broken images | Fully Stable -->
+# 👋 Hi, I'm Tanzeel Ahmed!  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/developer/developer.png" width="130" />
-</p>
-
-<h1 align="center">👋 Hi, I'm <strong>Tanzeel Ahmed</strong></h1>
-<p align="center"><strong>Frontend Developer • UI/UX Focused • Clean & Modern Web Interfaces</strong></p>
-
-<p align="center">
-  <a href="mailto:tanzeelahmed412@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-e63946?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Tanzeel804">
-    <img src="https://img.shields.io/badge/GitHub-Tanzeel804-000000?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&color=00E5FF&lines=Frontend+Developer;Pixel-Perfect+UI%2FUX+Designs;Responsive%2C+Clean%2C+Modern+Projects;Always+Learning%2C+Always+Improving" />
-</p>
+🚀 **Full Stack Developer | Python Enthusiast | Problem Solver**  
+💻 Passionate about building efficient, scalable applications and solving real-world problems with code.
 
 ---
 
-## 🚀 About Me
-I'm a frontend developer who enjoys building clean, fast, and visually smooth web interfaces.
+## 🛠️ Technologies & Tools
 
-- 🎨 Strong UI/UX sense  
-- 📱 Mobile-first responsive designs  
-- ⚡ Fast project builder  
-- 🎯 Goal: Become a top-tier frontend engineer  
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### **Frameworks & Libraries**
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 🛠 Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,linux,vscode,tailwind" height="48" />
-</p>
-
----
-
-## 🌟 Featured Projects  
-*(High-quality official icons → always load)*
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### ⭐ Portfolio Website (Main)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/portfolio/portfolio.png" width="180" />
-</p>
+## 📂 Featured Projects
 
-🔗 **Live:** https://Tanzeel804.github.io/portfolio-main  
-🔗 **Code:** https://github.com/Tanzeel804/portfolio-main  
+### 🏗️ **Full-Stack Applications**
 
----
+#### [News Hub](https://github.com/Tanzeel804/news_hub)
+A real-time news aggregation website that fetches latest news from multiple sources using NewsAPI.
+- **Tech:** Python, Flask, HTML, CSS, Bootstrap, REST API
+- **Features:** Category-based news, search functionality, responsive design
 
-### ⭐ Project Portfolio Template
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/web-development/web-development.png" width="180" />
-</p>
+#### [Hospital Management System](https://github.com/Tanzeel804/Hospital-Management-System)
+A comprehensive system for managing hospital operations including patient records and appointments.
+- **Tech:** Python, SQL, Flask
+- **Features:** Patient registration, appointment scheduling, record management
 
-🔗 **Live:** https://Tanzeel804.github.io/Project-portfolio  
-🔗 **Code:** https://github.com/Tanzeel804/Project-portfolio  
+### 🤖 **Automation & Tools**
 
----
+#### [Car Price Predictor](https://github.com/Tanzeel804/car_price_predictor)
+Machine learning project to predict car prices based on various features.
+- **Tech:** Python, Scikit-learn, Pandas, NumPy
+- **Features:** Data preprocessing, model training, price prediction
 
-### ⭐ E-Commerce Store UI
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="180" />
-</p>
+#### [Automated File Organizer](https://github.com/Tanzeel804/file-organizer)
+Python script to automatically organize files in directories based on file types.
+- **Tech:** Python, OS module
+- **Features:** Automatic categorization, customizable rules
 
-🔗 **Live:** https://Tanzeel804.github.io/E-com-store-ai  
-🔗 **Code:** https://github.com/Tanzeel804/E-com-store-ai  
+### 🌐 **Web Development**
+
+#### [Temperature Converter](https://github.com/Tanzeel804/temperature-convertor)
+Interactive web application for converting between different temperature units.
+- **Tech:** HTML, CSS, JavaScript
+- **Features:** Real-time conversion, user-friendly interface
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanzeel804&show_icons=true&theme=react&hide_border=true&bg_color=00000000" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanzeel804&theme=react&hide_border=true&background=00000000" />
-</p>
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzeel804&layout=compact&theme=react&hide_border=true&bg_color=00000000" />
-</p>
+![Tanzeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanzeel804&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzeel804&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tanzeel804&theme=radical)
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanzeel804&theme=onestar&no-bg=true&no-frame=true&row=1&column=6" />
-</p>
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Tanzeel804&theme=radical)
 
 ---
 
-## ✨ Contact
-- 📧 Email: **tanzeelahmed412@gmail.com**  
-- 🐙 GitHub: **https://github.com/Tanzeel804**
+## 📈 Contribution Graph
+
+![Tanzeel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanzeel804&theme=react-dark)
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/code/code.png" width="120" />
-</p>
+## 🚀 What I'm Currently Learning
+- Advanced Python frameworks (Django, FastAPI)
+- React.js for frontend development
+- Database optimization techniques
+- Cloud deployment (AWS, Docker)
+
+---
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+## 📫 How to reach me
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **Portfolio:** [Your Portfolio Website](https://your-portfolio.com)
+
+---
+
+⭐ **Fun Fact:** I believe in writing code that not only works but is also clean, maintainable, and scalable!
+
+---
+
+> *"First, solve the problem. Then, write the code." – John Johnson*
