@@ -328,7 +328,7 @@ I --> L[Netlify]
   **Last Updated:** December 2023 | **Profile Version:** 4.0
   
   <!-- Simple divider instead of snake -->
-  <img src="https://raw.githubusercontent.com/Tanzeel804/Tanzeel804/output/github-contribution-grid-snake.svg" width="100%">
+![Snake](https://github.com/Tanzeel804/Tanzeel804/blob/main/github-contribution-grid-snake.svg?raw=true)
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&reversal=true)
   
 </div>
