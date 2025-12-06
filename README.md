@@ -116,7 +116,8 @@ const developer = {
 
 <p align="center">
   <a href="https://tanzeel804.github.io/weather-app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanzeel804&repo=weather-app&theme=radical&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=00d4ff" />
+ <img width="200" height="200" alt="gemini  weather app)" src="https://github.com/user-attachments/assets/f739a8ec-bf51-4899-9c6a-1cecb9026a2f" />
+
   </a>
 </p>
 
