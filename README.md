@@ -93,7 +93,8 @@ const developer = {
 
 <p align="center">
   <a href="https://tanzeel804.github.io/portfolio-main/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanzeel804&repo=portfolio-main&theme=radical&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=00d4ff" />
+<img width="1024" height="1024" alt="gemini protfolio genrated" src="https://github.com/user-attachments/assets/b814e3c8-68c7-407e-acdc-9066139535cc" />
+
   </a>
 </p>
 
