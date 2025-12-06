@@ -116,7 +116,7 @@ const developer = {
 
 <p align="center">
   <a href="https://tanzeel804.github.io/weather-app/">
- <img width="200" height="200" alt="gemini  weather app)" src="https://github.com/user-attachments/assets/f739a8ec-bf51-4899-9c6a-1cecb9026a2f" />
+ <img width="400" height="200" alt="gemini  weather app)" src="https://github.com/user-attachments/assets/f739a8ec-bf51-4899-9c6a-1cecb9026a2f" />
 
   </a>
 </p>
@@ -138,7 +138,7 @@ const developer = {
 > **Latest News Aggregator Website**
 
 <p align="center">
-<img width="200" height="200" alt="news hub open  (1)" src="https://github.com/user-attachments/assets/f40a1a70-c769-4417-a64d-5c771691b6c5" />
+<img width="400" height="200" alt="news hub open  (1)" src="https://github.com/user-attachments/assets/f40a1a70-c769-4417-a64d-5c771691b6c5" />
   
 </p>
 
@@ -157,7 +157,7 @@ const developer = {
 > **Temperature Unit Conversion Tool**
 
 <p align="center">
-<img width="200" height="200" alt="tempareature convert (1)" src="https://github.com/user-attachments/assets/25fee73e-5802-490d-aced-d7c98aa7acf4" />
+<img width="400" height="200" alt="tempareature convert (1)" src="https://github.com/user-attachments/assets/25fee73e-5802-490d-aced-d7c98aa7acf4" />
 
 </p>
 
@@ -205,27 +205,6 @@ I[Tools] --> J[Git/GitHub]
 I --> K[VS Code]
 I --> L[Netlify]
 ```
-
----
-
-## 📱 **Project Previews**
-
-<div align="center">
-
-### **Portfolio Website**
-![Portfolio Preview](<img width="150" height="150" alt="gemini protfolio genrated cropped(1)" src="https://github.com/user-attachments/assets/a31de66e-ca6e-4c08-9ed4-f4417aec2374" />
- )
-
-### **Weather App**
-![Weather App Preview](<img width="150" height="150" alt="gemini  weather app)" src="https://github.com/user-attachments/assets/87487303-82a3-45c2-be7d-a1317a71cebe" />
- )
-
-### **News Hub**
-![News Hub Preview](<img width="150" height="150" alt="news hub open  (1)" src="https://github.com/user-attachments/assets/5d523923-f869-4b27-9b7a-c3dbac13905f" />
-)
-
-</div>
-
 ---
 
 ## 🎓 **Learning Journey**
@@ -346,9 +325,12 @@ I --> L[Netlify]
   
   ### ⭐ **Check out my projects and star if you like them!** ⭐
   
-  **Last Updated:** December 2025 | **Profile Version:** 4.0
-
-  ![Footer Snake](https://raw.githubusercontent.com/Tanzeel804/Tanzeel804/output/github-contribution-grid-snake.svg)
+  **Last Updated:** December 2023 | **Profile Version:** 4.0
+  
+  <!-- Simple divider instead of snake -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&reversal=true)
   
 </div>
 
