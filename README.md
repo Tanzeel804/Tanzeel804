@@ -331,8 +331,7 @@ I --> L[Netlify]
 
   <br>
   
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanzeel804&show_icons=true&theme=radical" width="400" />
+  <!-- GitHub stats --> <img src="https://github-readme-stats.vercel.app/api?username=Tanzeel804&show_icons=true&theme=radical" width="400" />
   
 
 </div>
