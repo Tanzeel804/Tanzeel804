@@ -337,15 +337,6 @@ I --> L[Netlify]
 </div>
 <div align="center">
 
-### ⭐ **Check out my projects!** ⭐
-
-**Last Updated:** December 2023
-
-<!-- Simple Stats -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanzeel804&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzeel804&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 <!-- Activity Graph -->
 <p align="center">
