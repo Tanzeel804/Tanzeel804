@@ -93,7 +93,7 @@ const developer = {
 
 <p align="center">
   <a href="https://tanzeel804.github.io/portfolio-main/">
-<img width="737" height="456" alt="gemini protfolio genrated cropped(1)" src="https://github.com/user-attachments/assets/46660b3e-fae0-4efa-847c-4360927c354e" />
+<img width="200" height="200" alt="gemini protfolio genrated cropped(1)" src="https://github.com/user-attachments/assets/46660b3e-fae0-4efa-847c-4360927c354e" />
 
   </a>
 </p>
@@ -138,7 +138,8 @@ const developer = {
 > **Latest News Aggregator Website**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanzeel804&repo=news_hub&theme=radical&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=00d4ff" />
+<img width="200" height="200" alt="news hub open  (1)" src="https://github.com/user-attachments/assets/f40a1a70-c769-4417-a64d-5c771691b6c5" />
+  
 </p>
 
 **Features:**
@@ -152,29 +153,12 @@ const developer = {
 
 ---
 
-### **📁 4. File Organizer**
-> **Automated File Management Tool**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanzeel804&repo=file-organizer&theme=radical&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=00d4ff" />
-</p>
-
-**Features:**
-- 🤖 Automatic Organization
-- 📂 File Categorization
-- 🔄 Custom Rules
-- ⚡ Fast Processing
-- 🛠️ Easy to Use
-
-**Tech Stack:** `Python` `OS Module` `Automation` `CLI Tool`
-
----
-
 ### **🌡️ 5. Temperature Converter**
 > **Temperature Unit Conversion Tool**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanzeel804&repo=temperature-convertor&theme=radical&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=00d4ff" />
+<img width="200" height="200" alt="tempareature convert (1)" src="https://github.com/user-attachments/assets/25fee73e-5802-490d-aced-d7c98aa7acf4" />
+
 </p>
 
 **Features:**
@@ -229,13 +213,16 @@ I --> L[Netlify]
 <div align="center">
 
 ### **Portfolio Website**
-![Portfolio Preview](https://via.placeholder.com/400x200/00d4ff/ffffff?text=Portfolio+Website)
+![Portfolio Preview](<img width="150" height="150" alt="gemini protfolio genrated cropped(1)" src="https://github.com/user-attachments/assets/a31de66e-ca6e-4c08-9ed4-f4417aec2374" />
+ )
 
 ### **Weather App**
-![Weather App Preview](https://via.placeholder.com/400x200/ff6b6b/ffffff?text=Weather+App)
+![Weather App Preview](<img width="150" height="150" alt="gemini  weather app)" src="https://github.com/user-attachments/assets/87487303-82a3-45c2-be7d-a1317a71cebe" />
+ )
 
 ### **News Hub**
-![News Hub Preview](https://via.placeholder.com/400x200/7952b3/ffffff?text=News+Hub)
+![News Hub Preview](<img width="150" height="150" alt="news hub open  (1)" src="https://github.com/user-attachments/assets/5d523923-f869-4b27-9b7a-c3dbac13905f" />
+)
 
 </div>
 
@@ -277,11 +264,11 @@ I --> L[Netlify]
 
 | **Skill** | **Level** | **Projects** |
 |-----------|-----------|--------------|
-| Web Development | Advanced | 5+ Projects |
-| Python Programming | Intermediate | 3+ Projects |
-| API Integration | Intermediate | 2+ Projects |
+| Web Development | Advanced | 25+ Projects |
+| Python Programming | Intermediate | 10+ Projects |
+| API Integration | Intermediate | 3+ Projects |
 | Git/GitHub | Advanced | All Projects |
-| Responsive Design | Intermediate | 4+ Projects |
+| Responsive Design | Intermediate | 15+ Projects |
 
 </div>
 
@@ -359,8 +346,8 @@ I --> L[Netlify]
   
   ### ⭐ **Check out my projects and star if you like them!** ⭐
   
-  **Last Updated:** December 2023 | **Profile Version:** 4.0
-  
+  **Last Updated:** December 2025 | **Profile Version:** 4.0
+
   ![Footer Snake](https://raw.githubusercontent.com/Tanzeel804/Tanzeel804/output/github-contribution-grid-snake.svg)
   
 </div>
