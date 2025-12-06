@@ -320,17 +320,18 @@ I --> L[Netlify]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Thanks+For+Visiting!&fontSize=30&fontAlignY=70&animation=fadeIn&reversal=true" />
 </p>
-
 <div align="center">
   
-  ### ⭐ **Check out my projects and star if you like them!** ⭐
+  ### ⭐ **Check out my projects!** ⭐
   
-  **Last Updated:** December 2023 | **Profile Version:** 4.0
+  **Last Updated:** December 2023
   
-  <!-- Simple divider instead of snake -->
-![Snake](https://github.com/Tanzeel804/Tanzeel804/blob/main/github-contribution-grid-snake.svg?raw=true)
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&reversal=true)
+  <!-- Simple animated line instead of snake -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=435&lines=Thanks+for+visiting!;Happy+Coding!;Come+back+soon!" />
   
-</div>
-
----
+  <br>
+  
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanzeel804&show_icons=true&theme=radical" width="400" />
+  
+</div>-
