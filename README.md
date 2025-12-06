@@ -330,9 +330,6 @@ I --> L[Netlify]
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=435&lines=Thanks+for+visiting!;Happy+Coding!;Come+back+soon!;Take+Care!" />
 
   <br>
-  
-  <!-- GitHub stats --> <img src="https://github-readme-stats.vercel.app/api?username=Tanzeel804&show_icons=true&theme=radical" width="400" />
-  
 
 </div>
 <div align="center">
