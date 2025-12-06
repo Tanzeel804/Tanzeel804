@@ -324,10 +324,7 @@ I --> L[Netlify]
   
   ### ⭐ **Check out my projects!** ⭐
   
-  **Last Updated:** December 2023
-  
-  <!-- Simple animated line instead of snake -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=435&lines=Thanks+for+visiting!;Happy+Coding!;Come+back+soon!" />
+  **Last Updated:** December 2025
   
   <br>
   
