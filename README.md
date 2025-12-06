@@ -93,7 +93,7 @@ const developer = {
 
 <p align="center">
   <a href="https://tanzeel804.github.io/portfolio-main/">
-<img width="200" height="200" alt="gemini protfolio genrated cropped(1)" src="https://github.com/user-attachments/assets/46660b3e-fae0-4efa-847c-4360927c354e" />
+<img width="400" height="200" alt="gemini protfolio genrated cropped(1)" src="https://github.com/user-attachments/assets/46660b3e-fae0-4efa-847c-4360927c354e" />
 
   </a>
 </p>
