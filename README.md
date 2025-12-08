@@ -7,10 +7,17 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Tanzeel804&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-  ![GitHub Followers](https://img.shields.io/github/followers/Tanzeel804?color=teal&style=for-the-badge&logo=github&label=FOLLOWERS)
-  ![GitHub Stars](https://img.shields.io/github/stars/Tanzeel804?color=gold&style=for-the-badge&logo=github&label=TOTAL+STARS)
-  ![Total Repositories](https://badges.strrl.dev/repos/Tanzeel804?color=green&style=for-the-badge&label=REPOSITORIES)
+  <!-- Visitor Count -->
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTanzeel804&countColor=%23697689&label=VISITORS&style=for-the-badge)
+  
+  <!-- GitHub Followers -->
+  [![GitHub followers](https://img.shields.io/github/followers/Tanzeel804?color=teal&label=FOLLOWERS&style=for-the-badge&logo=github)](https://github.com/Tanzeel804?tab=followers)
+  
+  <!-- GitHub Stars -->
+  ![GitHub User's stars](https://img.shields.io/github/stars/Tanzeel804?color=gold&label=TOTAL%20STARS&style=for-the-badge&logo=github)
+  
+  <!-- Total Repositories -->
+  ![Repositories](https://img.shields.io/badge/REPOSITORIES-8+-brightgreen?style=for-the-badge&logo=github)
 
 </div>
 
@@ -32,12 +39,12 @@ const developer = {
 ```
 
 ### **Currently:**
-- 🔭 **Working on:** Building a full-featured TechStore e-commerce platform with modern UI/UX and dark/light theme toggle
-- 🌱 **Learning:** React Native, Next.js, AWS, Docker, and advanced backend concepts
-- 👯 **Looking to collaborate on:** Open source web projects, React/Node.js apps, and innovative SaaS solutions
-- 🤔 **Looking for help with:** Cloud deployment, application scaling, and performance optimization
-- 💬 **Ask me about:** Web development, JavaScript, React, responsive design, and Pakistan's tech scene
-- ⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes and once built a complete website in 24 hours!
+- 🔭 **Working on:** Building a full-featured TechStore e-commerce platform
+- 🌱 **Learning:** React Native, Next.js, AWS, Docker
+- 👯 **Looking to collaborate on:** Open source web projects
+- 🤔 **Looking for help with:** Cloud deployment & scaling
+- 💬 **Ask me about:** Web development & JavaScript
+- ⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes!
 
 ---
 
@@ -45,13 +52,12 @@ const developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanzeel-ahmed-b21288397)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanzeel804)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TanzeelOnX)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tanzeelahmedpov)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tanzeelahmed_dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanzeel.ahmed.se@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://tanzeel804.github.io/portfolio-main/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/tanzeel-ahmed-b21288397)](https://linkedin.com/in/tanzeel-ahmed-b21288397)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Tanzeel804)](https://github.com/Tanzeel804)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/TanzeelOnX)](https://twitter.com/TanzeelOnX)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/tanzeelahmedpov)](https://instagram.com/tanzeelahmedpov)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tanzeel.ahmed.se@gmail.com)](mailto:tanzeel.ahmed.se@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white&link=https://tanzeel804.github.io/portfolio-main/)](https://tanzeel804.github.io/portfolio-main/)
 
 </div>
 
@@ -61,27 +67,42 @@ const developer = {
 
 ### **💻 Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,cpp,java" />
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 </div>
 
 ### **⚡ Frontend**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,vue" />
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 </div>
 
 ### **🔧 Backend & Databases**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,firebase,mysql" />
+  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 </div>
 
 ### **🛠️ Tools & Platforms**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,docker,aws" />
-</div>
+  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### **🎨 Design**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </div>
 
 ---
@@ -91,17 +112,23 @@ const developer = {
 <div align="center">
 
 ### **GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=Tanzeel804&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzeel804&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=ffffff" width="48%" />
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanzeel804&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff)
 
-### **GitHub Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanzeel804&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b" />
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tanzeel804&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b)
 
-### **Activity Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanzeel804&theme=react-dark&bg_color=0d1117&hide_border=true&color=00d4ff&line=00d4ff&point=ffffff" />
+### **Top Languages**
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzeel804&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=ffffff)
 
 ### **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=Tanzeel804&theme=radical&no-frame=true&row=2&column=3" />
+<!-- GitHub Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tanzeel804&theme=radical&no-frame=true&row=2&column=3)
+
+### **Activity Graph**
+<!-- GitHub Activity Graph -->
+[![Tanzeel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanzeel804&theme=react-dark&bg_color=0d1117&hide_border=true&color=00d4ff&line=00d4ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -110,81 +137,86 @@ const developer = {
 ## 🏆 **Featured Projects**
 
 ### **🎯 1. Portfolio Website**  
-**Live Demo:** 🔗 [View Portfolio](https://tanzeel804.github.io/portfolio-main/)  
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Bootstrap` `Netlify`  
-**Features:** Modern UI/UX, Fully Responsive, Fast Loading, Contact Form, Project Showcase
+**🔗 Live Demo:** [View Portfolio](https://tanzeel804.github.io/portfolio-main/)  
+**🛠️ Tech Stack:** `HTML5` `CSS3` `JavaScript` `Bootstrap` `Netlify`  
+**✨ Features:** Modern UI/UX, Fully Responsive, Fast Loading, Contact Form, Project Showcase
 
 ### **🌤️ 2. Weather App**  
-**Live Demo:** 🔗 [Check Weather](https://tanzeel804.github.io/weather-app/)  
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Weather API` `Netlify`  
-**Features:** Real-time Weather, Location-based, City Search, Weather Details, Beautiful UI
+**🔗 Live Demo:** [Check Weather](https://tanzeel804.github.io/weather-app/)  
+**🛠️ Tech Stack:** `HTML5` `CSS3` `JavaScript` `Weather API` `Netlify`  
+**✨ Features:** Real-time Weather, Location-based, City Search, Weather Details
 
 ### **📰 3. News Hub**  
-**Tech Stack:** `Python` `Flask` `Bootstrap` `NewsAPI` `HTML/CSS`  
-**Features:** Latest News, Multiple Categories, Search Functionality, Responsive Design
+**🛠️ Tech Stack:** `Python` `Flask` `Bootstrap` `NewsAPI` `HTML/CSS`  
+**✨ Features:** Latest News, Multiple Categories, Search Functionality, Responsive Design
 
 ### **🌡️ 4. Temperature Converter**  
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Bootstrap` `Web`  
-**Features:** Multi-unit Conversion, Real-time Calculation, Clean Interface, Mobile Friendly
+**🛠️ Tech Stack:** `HTML5` `CSS3` `JavaScript` `Bootstrap`  
+**✨ Features:** Multi-unit Conversion, Real-time Calculation, Clean Interface, Mobile Friendly
 
 ---
 
 ## 📈 **Project Progress**
 
-| **Status** | **Project** | **Details** |
-|------------|-------------|-------------|
-| 🟢 **Live** | Portfolio Website | Live on GitHub Pages |
-| 🟢 **Live** | Weather App | Live on GitHub Pages |
-| 🟢 **Complete** | Temperature Converter | Fully Functional |
-| 🟡 **In Progress** | TechStore E-commerce | Under Development |
-| 🟡 **In Progress** | News Hub | API Integration Phase |
-| 🔵 **Planned** | Task Management App | Q1 2025 |
-| 🔵 **Planned** | Blog Platform | Q2 2025 |
+| Status | Project | Progress |
+|--------|---------|----------|
+| 🟢 **Live** | Portfolio Website | 100% Complete |
+| 🟢 **Live** | Weather App | 100% Complete |
+| 🟡 **In Progress** | TechStore E-commerce | 75% Complete |
+| 🟡 **In Progress** | News Hub | 60% Complete |
+| 🔵 **Planned** | Task Management App | 0% Complete |
+| 🔵 **Planned** | Blog Platform | 0% Complete |
 
 ---
 
-## 🌟 **Skills Matrix**
+## 🌟 **Skills Overview**
 
-| **Skill Category** | **Technologies** | **Proficiency** |
-|-------------------|------------------|-----------------|
-| **Frontend** | HTML5, CSS3, JavaScript, React, Bootstrap | ⭐⭐⭐⭐⭐ |
-| **Backend** | Python, Flask, Node.js, Express.js | ⭐⭐⭐⭐☆ |
-| **Databases** | MongoDB, Firebase, MySQL | ⭐⭐⭐☆☆ |
-| **Tools** | Git, GitHub, VS Code, Docker | ⭐⭐⭐⭐☆ |
-| **Design** | Figma, Photoshop, UI/UX Principles | ⭐⭐⭐☆☆ |
+<div align="center">
 
----
+| Skill | Level | Experience |
+|-------|-------|------------|
+| **HTML/CSS** | ⭐⭐⭐⭐⭐ | 2+ Years |
+| **JavaScript** | ⭐⭐⭐⭐☆ | 1.5+ Years |
+| **React.js** | ⭐⭐⭐☆☆ | 1+ Year |
+| **Python** | ⭐⭐⭐⭐☆ | 2+ Years |
+| **Node.js** | ⭐⭐⭐☆☆ | 1+ Year |
+| **Git/GitHub** | ⭐⭐⭐⭐☆ | 2+ Years |
 
-## 🎓 **Learning Timeline**
-
-```mermaid
-timeline
-    title Learning Journey
-    section 2023
-        Q3 : Python Fundamentals
-        Q4 : Web Development Basics
-    section 2024
-        Q1 : JavaScript & React
-        Q2 : Backend Development
-        Q3 : API Integration
-        Q4 : Full Stack Projects
-    section 2025
-        Q1 : React Native
-        Q2 : Cloud Deployment
-        Q3 : Advanced Databases
-        Q4 : DevOps & CI/CD
-```
+</div>
 
 ---
 
-## 📊 **Development Breakdown**
+## 🎓 **Learning Journey**
+
+### **✅ Completed:**
+- Python Fundamentals & Flask
+- Web Development Basics
+- Git & GitHub Mastery
+- API Integration
+- Responsive Design Principles
+
+### **📚 Currently Learning:**
+- React Native
+- Next.js
+- AWS
+- Docker
+- Advanced Databases
+
+### **🎯 Future Goals:**
+- Cloud Architecture
+- DevOps Practices
+- Machine Learning Basics
+- Advanced React Patterns
+
+---
+
+## 📊 **Development Activity**
 
 ```text
-Frontend Development  [████████████████████░░] 85%
-Backend Development   [████████████████░░░░░░] 70%
-Database Management   [██████████░░░░░░░░░░░░] 50%
-DevOps & Cloud       [████████░░░░░░░░░░░░░░] 40%
-UI/UX Design         [██████████████░░░░░░░░] 65%
+Frontend Development  ████████████████████░░░░ 85%
+Backend Development   ████████████████░░░░░░░░ 70%
+Database Management   ██████████░░░░░░░░░░░░░░ 50%
+DevOps & Cloud       ████████░░░░░░░░░░░░░░░░ 40%
 ```
 
 ---
@@ -193,13 +225,12 @@ UI/UX Design         [██████████████░░░░░�
 
 <div align="center">
 
-| **Milestone** | **Status** | **Date** |
-|---------------|------------|----------|
-| 25+ Projects Completed | ✅ Achieved | 2024 |
-| GitHub 100+ Stars | ✅ Achieved | 2024 |
+| Achievement | Status | Year |
+|-------------|--------|------|
+| 25+ Projects Completed | ✅ Done | 2024 |
+| GitHub 100+ Stars | 🎯 In Progress | 2025 |
 | 50+ GitHub Followers | 🎯 In Progress | 2025 |
-| Open Source Contributions | 🎯 In Progress | 2025 |
-| Professional Certifications | 📅 Planned | 2025 |
+| First Open Source Contribution | 📅 Planned | 2025 |
 
 </div>
 
@@ -207,134 +238,87 @@ UI/UX Design         [██████████████░░░░░�
 
 ## 📝 **Latest Updates**
 
-### **🔵 Current Focus (January 2025)**
-- 🚀 **TechStore E-commerce** - Final development phase
-- 📱 **React Native** - Mobile app development learning
-- ☁️ **AWS Certification** - Cloud practitioner preparation
-- 🔄 **Portfolio Update** - Adding new projects
+### **January 2025**
+- ✅ Portfolio Website Updated
+- ✅ Weather App Enhanced
+- 🔄 TechStore E-commerce in Development
+- 📚 Learning React Native
+- 🤝 Open for Collaborations
 
-### **🟢 Recently Completed**
-- ✅ **Portfolio Website** - Redesigned and deployed
-- ✅ **Weather App** - Enhanced with new features
-- ✅ **JavaScript Mastery** - Advanced concepts completed
-
-### **🟣 Upcoming Goals**
-- 🌐 **Full Stack Application** - End-to-end project
-- 🎨 **UI/UX Certification** - Design principles
-- 📊 **Database Optimization** - Performance tuning
+### **Coming Soon**
+- 🚀 TechStore E-commerce Launch
+- 🔥 More Full-Stack Projects
+- 🌐 Cloud Deployment Tutorials
+- 📱 Mobile App Development
 
 ---
 
-## 🤝 **Collaboration Opportunities**
+## 🤝 **Collaboration & Opportunities**
 
-### **I'm Available For:**
 <div align="center">
 
 [![Freelance Projects](https://img.shields.io/badge/FREELANCE-PROJECTS-8A2BE2?style=for-the-badge)](mailto:tanzeel.ahmed.se@gmail.com)
 [![Open Source](https://img.shields.io/badge/OPEN-SOURCE-32CD32?style=for-the-badge)](https://github.com/Tanzeel804)
-[![Mentorship](https://img.shields.io/badge/MENTORSHIP-FFD700?style=for-the-badge)](mailto:tanzeel.ahmed.se@gmail.com)
 [![Consultation](https://img.shields.io/badge/CONSULTATION-00CED1?style=for-the-badge)](mailto:tanzeel.ahmed.se@gmail.com)
 
 </div>
 
-### **Expertise Areas:**
-- ✅ **Custom Web Development**
-- ✅ **E-commerce Solutions**
-- ✅ **API Development & Integration**
-- ✅ **Responsive Design**
-- ✅ **Performance Optimization**
-- ✅ **Technical Consultation**
+### **I Can Help With:**
+✅ Custom Website Development  
+✅ Responsive Web Design  
+✅ API Integration  
+✅ E-commerce Solutions  
+✅ Web Application Deployment  
+✅ Performance Optimization  
 
 ---
 
-## 📞 **Contact Information**
+## 📞 **Get In Touch**
 
 <div align="center">
 
-| **Platform** | **Link** | **Response Time** |
-|--------------|----------|-------------------|
+| Platform | Link | Response Time |
+|----------|------|---------------|
 | **Email** | tanzeel.ahmed.se@gmail.com | Within 24 hours |
 | **LinkedIn** | linkedin.com/in/tanzeel-ahmed-b21288397 | Within 48 hours |
 | **GitHub** | github.com/Tanzeel804 | Within 24 hours |
-| **Portfolio** | tanzeel804.github.io/portfolio-main | Live |
 
 </div>
 
 ---
 
-## 🎯 **Quote of Inspiration**
+## 🎯 **Quote of the Day**
 
 <div align="center">
 
-> ### **"The only way to do great work is to love what you do."**  
-> *— Steve Jobs*
+> ### **"The best way to predict the future is to create it."**  
+> *— Peter Drucker*
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Thanks+For+Visiting+My+Profile!&fontSize=30&fontAlignY=70&animation=fadeIn&reversal=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Thanks+For+Visiting!&fontSize=30&fontAlignY=70&animation=fadeIn&reversal=true" />
 </p>
 
 <div align="center">
 
-### ⭐ **Star my repositories if you find them interesting!** ⭐
+### ⭐ **Check out my repositories and star if you like them!** ⭐
 
 **Last Updated:** January 2025
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Let's+build+amazing+things+together!;Happy+coding+%F0%9F%92%BB;Stay+curious%2C+keep+learning!" />
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Let's+build+amazing+things+together!;Happy+coding+%F0%9F%92%BB;Stay+curious%2C+keep+learning!)](https://git.io/typing-svg)
 
 <br>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTanzeel804&countColor=%23697689&label=PROFILE%20VISITORS&style=for-the-badge)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FTanzeel804)
-
-<br>
-
-**📊 Daily Development Activity:**
-  
-![GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=Tanzeel804&theme=radical&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=ffffff)
-
-</div>
-
----
-
-<div align="center">
-
-### **🎯 Quick Stats Summary**
-
-| **Metric** | **Value** | **Trend** |
-|------------|-----------|-----------|
-| **Repositories** | 8+ | 📈 Increasing |
-| **Stars Received** | Growing | ⭐ Daily |
-| **Projects Completed** | 15+ | ✅ Active |
-| **Technologies** | 25+ | 🛠️ Learning |
-| **Years Experience** | 2+ | 📚 Growing |
-
-<br>
-
-**🌐 Visitor Counter (Last 7 Days):**
-<!-- Placeholder for visitor counter -->
-<p align="center">
-  <img src="https://count.getloli.com/get/@Tanzeel804?theme=gelbooru" alt="Visitor Count" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-### **📈 GitHub Contribution Calendar**
-
-<!-- GitHub Contribution Graph -->
-<img src="https://ghchart.rshah.org/Tanzeel804" alt="Tanzeel804's GitHub Contributions" />
+<!-- Visitor Count Badge -->
+![Visitor Count](https://komarev.com/ghpvc/?username=Tanzeel804&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br>
 
 **📍 Based in Pakistan | 🕐 Timezone: UTC+5**
-
-[![wakatime](https://wakatime.com/badge/user/your-user-id.svg)](https://wakatime.com/@Tanzeel804)
 
 </div>
 
@@ -344,7 +328,7 @@ UI/UX Design         [██████████████░░░░░�
 
 ### **🎖️ Proudly Crafted With ❤️ by Tanzeel Ahmed**
 
-*"Programming isn't about what you know; it's about what you can figure out." - Chris Pine*
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
 
 <br>
 
@@ -357,38 +341,23 @@ UI/UX Design         [██████████████░░░░░�
 
 <div align="center">
 
-**📌 Pro Tip:** Press `Ctrl + F` to search for specific skills or projects!
+### **📌 Quick Stats**
+
+| Metric | Value |
+|--------|-------|
+| **Total Repositories** | 8+ |
+| **GitHub Stars** | Growing Daily |
+| **Projects Completed** | 15+ |
+| **Technologies Used** | 20+ |
+| **Experience** | 2+ Years |
 
 <br>
 
-**🔄 This README updates automatically via GitHub Actions**
+**🔄 This README updates automatically**
 
-[![Update README](https://github.com/Tanzeel804/Tanzeel804/actions/workflows/update-readme.yml/badge.svg)](https://github.com/Tanzeel804/Tanzeel804/actions/workflows/update-readme.yml)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanzeel804/Tanzeel804?color=blue&label=README%20Updated&logo=github&style=for-the-badge)](https://github.com/Tanzeel804)
 
 </div>
-
----
-
-## 🔔 **Real-time Updates**
-
-<div align="center">
-
-**Current GitHub Status:**
-![GitHub Status](https://img.shields.io/github/commit-activity/m/Tanzeel804/Tanzeel804?color=blue&label=Monthly%20Activity&style=for-the-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/Tanzeel804/Tanzeel804?color=green&label=Latest%20Commit&style=for-the-badge)
-
-**Next Project Update:** *TechStore E-commerce - Estimated Completion: February 2025*
-
-</div>
-
----
-
-### **📋 How to Use This Profile:**
-1. **Explore Projects:** Check out my repositories for various web development projects
-2. **Connect:** Feel free to reach out for collaboration or opportunities
-3. **Learn:** Follow my learning journey and tech stack evolution
-4. **Contribute:** Open to suggestions and improvements
 
 ---
 
@@ -397,5 +366,28 @@ UI/UX Design         [██████████████░░░░░�
 **✨ Thank you for visiting my GitHub profile! ✨**
 
 *May your code always compile and your bugs be minimal! 🐛➡️✅*
+
+</div>
+
+## 🔧 **Technical Details**
+
+This README uses:
+- **GitHub Readme Stats** by Anurag Hazra
+- **GitHub Readme Streak Stats** by DenverCoder1
+- **GitHub Profile Trophy** by Ryo-t
+- **GitHub Readme Activity Graph** by Ashutosh007
+- **Visitor Badge** by visitorbadge.io
+- **Typing SVG** by readme-typing-svg
+
+All stats are updated in real-time and show accurate GitHub activity.
+
+---
+
+<div align="center">
+
+### **📊 Live GitHub Stats Feed**
+
+<!-- Add this for live updates -->
+![Metrics](https://metrics.lecoq.io/Tanzeel804?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKarachi)
 
 </div>
