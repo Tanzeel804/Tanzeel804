@@ -56,6 +56,11 @@ const developer = {
 
 ## 🌐 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanzeel%20Ahmed-blue?logo=linkedin)](https://www.linkedin.com/in/tanzeelahmed-dev)
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanzeelahmed-dev">
+    <img src="https://img.shields.io/badge/-Tanzeel%20Ahmed-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanzeel-ahmed-b21288397)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanzeel804)
