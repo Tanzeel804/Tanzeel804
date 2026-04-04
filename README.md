@@ -1,4 +1,4 @@
-# 💫 **Tanzeel Ahmed**  
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script># 💫 **Tanzeel Ahmed**  
 ### **Full Stack Developer | Web Specialist | Tech Innovator**
 
 <p align="center">
@@ -45,7 +45,9 @@ const developer = {
   contact: "tanzeel.ahmed.se@gmail.com"
 };
 ```
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="tanzeel-ahmed-b21288397" data-version="v1">
+<a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/tanzeel-ahmed-b21288397">Tanzeel Ahmed</a>
+</div>
 ### **Currently:**
 - 🔭 **Working on:** Building a full-featured TechStore e-commerce platform
 - 🌱 **Learning:** React Native, Next.js, AWS, Docker
